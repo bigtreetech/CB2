@@ -26,3 +26,4 @@ Administrator account:
 
 # OS image
 * The latest system image is [here](https://github.com/bigtreetech/CB2/releases)
+* Source code: [Build scripts](https://github.com/bigtreetech/build/tree/bpi-main), [Linux kernel](https://github.com/bigtreetech/linux-rockchip/tree/bpi-rk-6.1-rkr5.1) and [u-boot](https://github.com/bigtreetech/u-boot/tree/bpi-v2025.04)
